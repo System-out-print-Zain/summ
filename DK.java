@@ -14,6 +14,6 @@ public class DK extends Actor
         {
             lastTime = System.currentTimeMillis();
             getWorld().addObject(new Barrel(), getX(), getY());
-        }
+        }dd
     }    
 }
