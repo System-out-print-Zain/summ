@@ -26,6 +26,6 @@ public class Barrel extends Actor
             turn(8);
           }
        }
-    }d
+    }
 }
  
